@@ -1,0 +1,7 @@
+Name = Battle Popup Messages
+Version = 2.0.2
+Essentials = 21.1,21.99,22
+Optional = Elite Battle: DX
+Optional = [DBK] Enhanced Battle UI
+Link = https://eeveeexpo.com/resources/1796/
+Credits = Zhec, Nononever
